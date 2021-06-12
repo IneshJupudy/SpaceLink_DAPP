@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "Shuttle",
+    "picture": "images/Shuttle 1.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Satellite",
+    "picture": "images/Sat 1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ground Communicator",
+    "picture": "images/Dish Antenna.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Manifacturing Unit",
+    "picture": "images/Manifacturing Unit 1.jpg"
+  }
+]
